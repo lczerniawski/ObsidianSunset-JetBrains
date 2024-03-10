@@ -20,7 +20,8 @@ The inception of this theme is rooted in my personal desire to have a single the
 With this theme, I aim to address all these issues and provide a visually pleasing, versatile, and user-friendly coding environment that enhances readability and productivity.
 
 # Screenshots
-![Screenshot of the theme in C#](images/csharp-example.png)
+![Screenshot of the theme in C#](images/csharp-example_1.png)
+![Screenshot of the theme in C#](images/csharp-example_2.png)
 ![Screenshot of the theme in TypeScript](images/ts-example.png)
 ![Screenshot of the theme in Python](images/python-example.png)
 
