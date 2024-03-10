@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>ObsidianSunset</id>
     <version>1.0.0</version>
-    <name>ObsidianSunset</name>
+    <name>Obsidian Sunset Theme</name>
     <category>UI</category>
 
     <vendor email="l.czerniawski@icloud.com" url="https://github.com/lczerniawski">Łukasz Czerniawski</vendor>
