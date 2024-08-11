@@ -1,5 +1,5 @@
 {
-  "name": "Obsidian Sunset",
+  "name": "Obsidian Sunset Orange",
   "author": "Łukasz Czerniawski",
   "dark": true,
   "editorScheme": "theme/ObsidianSunset-color-theme.xml",
@@ -45,7 +45,8 @@
       "inactiveUnderlineColor": "#c15d49",
       "underlineColor": "#C84B31",
       "underlineHeight": 4,
-      "hoverBackground": "#a2a1a133"
+      "hoverBackground": "#a2a1a133",
+      "underlinedTabBackground": "#363635"
     },
 
     "TabbedPane": {
@@ -91,6 +92,16 @@
       "foreground": "#CED0D5",
       "startBackground": "#a2a1a133",
       "startBorderColor": "#a2a1a133"
+    },
+
+    "Plugins": {
+      "lightSelectionBackground": "#363635",
+      "hoverBackground": "#3d3d3c"
+    },
+
+    "Table": {
+      "lightSelectionBackground": "#363635",
+      "hoverBackground": "#3d3d3c"
     }
   }
 }
