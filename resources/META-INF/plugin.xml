@@ -1,12 +1,12 @@
 <idea-plugin>
     <id>ObsidianSunset</id>
-    <version>2.0.1</version>
+    <version>2.0.2</version>
     <name>Obsidian Sunset Theme</name>
     <category>UI</category>
 
     <vendor email="l.czerniawski@icloud.com" url="https://github.com/lczerniawski">Łukasz Czerniawski</vendor>
 
-    <idea-version since-build="231" until-build="251.*"/>
+    <idea-version since-build="231"/>
     
     <description><![CDATA[
     <b>Obsidian Sunset</b> is a dark and colorful theme for Visual Studio Code that enhances the readability and aesthetics of your code.
@@ -37,6 +37,9 @@
   ]]></description>
 
     <change-notes><![CDATA[
+    <h3>[2.0.2] - 02.05.2025</h3>
+    Change to the unlimited 'Until Build' setting.
+
     <h3>[2.0.1] - 13.08.2024</h3>
     <h4>Changed</h4>
     Bumped idea-version
